@@ -1,0 +1,23 @@
+# Maven specific files
+/target/
+*.iml
+*.class
+
+# Logs
+*.log
+/logs/
+/test-output/
+/target/
+
+# IntelliJ IDEA specific files
+/.idea/
+/*.ipr
+/*.iws
+/*.bak
+/*.swp
+
+# Eclipse specific files
+/.settings/
+/*.classpath
+/*.project
+/*.jmx

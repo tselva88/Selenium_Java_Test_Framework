@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="College System Test Suite" parallel="false">
+
+    <test name="Verify Application Login Functionality">
+        <classes>
+            <class name="tests.LoginTest"/>
+        </classes>
+    </test>
+    
+    <test name="Verify Products Search Functionality">
+        <classes>
+            <class name="tests.ProductsTest"/>
+        </classes>
+    </test>
+    
+    <test name="Verify API - GET, POST Requests">
+	    <classes>
+	        <class name="tests.APITest" />
+	    </classes>
+	</test>
+
+</suite>
