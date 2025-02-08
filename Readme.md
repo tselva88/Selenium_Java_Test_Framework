@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Selenium Java-based automation framework designed to perform functional and REST API testing for a college system web application. It incorporates best practices, modularity, and reporting mechanisms to ensure effective test execution and result tracking.
+This is a Selenium Java-based automation framework designed to perform functional and REST API testing for a demo web application. It incorporates best practices, modularity, and reporting mechanisms to ensure effective test execution and result tracking.
 
 ## Key Features
 

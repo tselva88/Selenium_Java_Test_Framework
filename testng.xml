@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<suite name="College System Test Suite" parallel="false">
+<suite name="Web Application Test Suite" parallel="false">
 
     <test name="Verify Application Login Functionality">
         <classes>

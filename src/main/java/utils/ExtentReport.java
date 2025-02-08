@@ -9,7 +9,7 @@ public class ExtentReport {
     public static ExtentReports createInstance(String filePath) {
         ExtentSparkReporter sparkReporter = new ExtentSparkReporter(filePath);
         sparkReporter.config().setDocumentTitle("Automation Test Report");
-        sparkReporter.config().setReportName("College System Test Results");
+        sparkReporter.config().setReportName("Web Application Test Results");
         sparkReporter.config().setEncoding("utf-8");
         sparkReporter.config().setTheme(com.aventstack.extentreports.reporter.configuration.Theme.DARK);
 
